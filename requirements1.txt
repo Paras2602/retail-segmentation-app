@@ -1,5 +1,0 @@
-streamlit==1.29.0  # For the app interface
-joblib==1.3.2  # For loading the model
-pandas==2.1.4  # For DataFrames
-numpy==1.26.2  # For arrays
-scikit-learn==1.3.2  # For KMeans and Scaler
